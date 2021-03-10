@@ -8,6 +8,16 @@ This is a collection of my side projects ranging from exploratory data analysis,
   - [Data Cleaning and Analysis on Hacker News Posts](https://github.com/kirstentai/Passion-Projects/tree/main/exploratory-da/hackernews)
   - [Data Analysis on COVID-19 Cases Worldwide](https://github.com/kirstentai/Passion-Projects/tree/main/exploratory-da/covid19-cases)
   
+  
+  
 2. [SQL Analyses](https://github.com/kirstentai/Passion-Projects/tree/main/sql/)
   - [Analysis on World Population](https://github.com/kirstentai/Passion-Projects/tree/main/sql/world-population/)
 
+
+
+## Other Projects
+I am interested in product strategies, and am a case competition squad member at UCC.
+1. [Envoy: Automated messaging platform for doctors and patients](https://devpost.com/software/envoy)
+
+
+3. [Investigating Ocean Temperature Anomalies Using Time-Series Data](https://www.kirstentai.com/oceanography-time-series)
