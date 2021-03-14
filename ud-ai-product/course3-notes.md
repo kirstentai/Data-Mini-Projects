@@ -58,8 +58,8 @@ Steps
 Neural architectural search
 - determines the best architecture for data types
 
-Automated ML | Custom modelling |
---------------------------------
-- easier to get started | - expensive |
-- difficult to extend | - full customisability |
-- robust enterprise support | - limited means of external support |
+| Automated ML | Custom modelling |
+| :---------------------: | :----------------------------------: |
+| - easier to get started | - expensive |
+| - difficult to extend | - full customisability |
+| - robust enterprise support | - limited means of external support |
