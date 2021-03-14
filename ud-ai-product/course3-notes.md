@@ -1,6 +1,6 @@
 ## Course 3: Build a model
 
-#### Types of Functions
+### Types of Functions
 Activation Functions
 - decision boundaries to pass on information
 - for continuous values
@@ -15,14 +15,14 @@ ReLU (rectified linear unit)
 Leaky ReLU
 - ReLU and includes negative values
 
-#### Bulding out the model
+### Bulding out the model
 1. Substitute decision threshold activation -> sigmoid
 2. arbitrary weights filled in later on
 
 Result: configurable node (perceptron)
 Given input, give machine desired output. Node updates weights accordingly (backpropagation).
 
-#### Purpose-built Models
+### Purpose-built Models
 Multilayer perceptron
 - basic percpetron model for simple data types
 
