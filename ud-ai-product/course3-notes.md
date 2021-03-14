@@ -31,3 +31,35 @@ Conviolutional Neural Network
 
 LSTM
 - saves internal state, common in NLP
+
+### Training Data
+- ensure trained model reflects real-world data
+- diversity in data
+
+Common issues
+- unbiased or unbalanced data
+- discrepancy in trained and real world data
+- mislabeled data
+- insufficient data
+
+Transfer learning
+- using and storing knowledge from trained network to a similar use case and adapt to new use case
+- neural network capable of retaining learnings from previously trained data
+
+Automated ML
+Steps
+1. Take n layers of the original neural network (usually all but the last layer)
+2. Copy layers and retain weights, activation functions and architecture
+3. Attach new layers to replace old ones
+4. Retrain to tune last layers
+
+*Fine tuning: retraining previously copied layers
+
+Neural architectural search
+- determines the best architecture for data types
+
+Automated ML | Custom modelling |
+--------------------------------
+- easier to get started | - expensive |
+- difficult to extend | - full customisability |
+- robust enterprise support | - limited means of external support |
