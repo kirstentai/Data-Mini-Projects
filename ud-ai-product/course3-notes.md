@@ -60,6 +60,6 @@ Neural architectural search
 
 | Automated ML | Custom modelling |
 | :---------------------: | :----------------------------------: |
-| - easier to get started | - expensive |
-| - difficult to extend | - full customisability |
-| - robust enterprise support | - limited means of external support |
+| easier to get started | expensive |
+| difficult to extend | full customisability |
+| robust enterprise support | limited means of external support |
