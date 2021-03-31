@@ -30,5 +30,5 @@ I am interested in product strategy, and am a case competition squad member at [
 
 3. Currently taking: [Udacity AI Product Manager Nanodegree](https://github.com/kirstentai/Passion-Projects/tree/main/ud-ai-product)
 - Project 1: Creating a medical image annotation job
-- Project 2: Building a classification model using Google AutoML
+- Project 2: Testing different classification models using Google AutoML
 - Project 3: Creating a business proposal
