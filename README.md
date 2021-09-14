@@ -12,6 +12,7 @@ This is a collection of my side projects ranging from exploratory data analysis,
   
 2. [SQL Analyses](https://github.com/kirstentai/Passion-Projects/tree/main/sql/)
   - [Analysis on World Population](https://github.com/kirstentai/Passion-Projects/tree/main/sql/world-population/)
+  - [Health Analytics Case Study](https://github.com/kirstentai/Passion-Projects/tree/main/sql/sql-query-debug)
 
 
 
@@ -23,12 +24,7 @@ This is a collection of my side projects ranging from exploratory data analysis,
 
 
 ## Other Projects
-I am interested in product strategy, and am a case competition squad member at [UCC](https://www.linkedin.com/company/corporate-strategy-case-group/mycompany/).
+I am interested in data analytics and product strategy, and am a case competition squad member at [UCC](https://www.linkedin.com/company/corporate-strategy-case-group/mycompany/).
 1. [Envoy: Automated messaging platform for doctors and patients](https://devpost.com/software/envoy)
 
 2. [Investigating Ocean Temperature Anomalies Using Time-Series Data](https://www.kirstentai.com/oceanography-time-series)
-
-3. Currently taking: [Udacity AI Product Manager Nanodegree](https://github.com/kirstentai/Passion-Projects/tree/main/ud-ai-product)
-- Project 1: Creating a medical image annotation job
-- Project 2: Testing different classification models using Google AutoML
-- Project 3: Creating a business proposal
