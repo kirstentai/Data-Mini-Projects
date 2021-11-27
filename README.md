@@ -24,7 +24,4 @@ This is a collection of my side projects ranging from exploratory data analysis,
 
 
 ## Other Projects
-I am interested in data analytics and product strategy, and am a case competition squad member at [UCC](https://www.linkedin.com/company/corporate-strategy-case-group/mycompany/).
-1. [Envoy: Automated messaging platform for doctors and patients](https://devpost.com/software/envoy)
-
-2. [Investigating Ocean Temperature Anomalies Using Time-Series Data](https://www.kirstentai.com/oceanography-time-series)
+Product --- [Envoy: Automated messaging platform for doctors and patients](https://devpost.com/software/envoy)
